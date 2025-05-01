@@ -93,23 +93,22 @@ const Consult = () => {
       languages: "English, Hindi"
     },
     {
-  name: "Dr. Amina Al-Farsi",
-  specialty: "Pediatrician",
-  experience: "12 Years of Experience",
-  address: "456 Jumeirah Beach Road, Jumeirah, Dubai, UAE",
-  available: true,
-  imageSrc: "https://plus.unsplash.com/premium_photo-1661746485873-93651651e873?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  bio: "Dr. Amina Al-Farsi is dedicated to children's health and development. She has special training in behavioral pediatrics and adolescent medicine, with a focus on providing culturally sensitive care.",
-  education: "Dubai Medical College for Girls, Dubai, UAE",
-  languages: "Arabic, English",
-  rating: "4.8 out of 5 (98 reviews)",
-  contact: "+971 4 123 4567",
-  consultationFee: "AED 350 per session",
-  workingHours: "Mon - Sat, 9:00 AM - 4:00 PM",
-  hospitalAffiliation: "Rashid Hospital, Dubai"
-},
-
-    {
+      name: "Dr. Amina Al-Farsi",
+      specialty: "Pediatrician",
+      experience: "12 Years of Experience",
+      address: "456 Jumeirah Beach Road, Jumeirah, Dubai, UAE",
+      available: true,
+      imageSrc: "https://plus.unsplash.com/premium_photo-1661746485873-93651651e873?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      bio: "Dr. Amina Al-Farsi is dedicated to children's health and development. She has special training in behavioral pediatrics and adolescent medicine, with a focus on providing culturally sensitive care.",
+      education: "Dubai Medical College for Girls, Dubai, UAE",
+      languages: "Arabic, English",
+      rating: "4.8 out of 5 (98 reviews)",
+      contact: "+971 4 123 4567",
+      consultationFee: "AED 350 per session",
+      workingHours: "Mon - Sat, 9:00 AM - 4:00 PM",
+      hospitalAffiliation: "Rashid Hospital, Dubai"
+    },
+{
       name: "Dr. Emily Johnson",
       specialty: "Internal Medicine",
       experience: "10 Years of Experience",
@@ -132,36 +131,32 @@ const Consult = () => {
       languages: "English, Hindi"
     },
     {
-  name: "Dr. Ananya Iyer",
-  specialty: "Neurologist",
-  experience: "7 Years of Experience",
-  address: "22 Bannerghatta Main Road, Bengaluru, Karnataka, India",
-  available: true,
-  imageSrc: "https://images.unsplash.com/photo-1614608682850-e0d6ed316d47?w=400&h=400&auto=format&fit=crop&q=60",
-  bio: "Dr. Iyer is a specialist in neurodegenerative disorders. Her research has contributed significantly to understanding Alzheimer's disease progression.",
-  education: "National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru",
-  languages: "English, Tamil, Hindi"
-},
-
-
-
+      name: "Dr. Ananya Iyer",
+      specialty: "Neurologist",
+      experience: "7 Years of Experience",
+      address: "22 Bannerghatta Main Road, Bengaluru, Karnataka, India",
+      available: true,
+      imageSrc: "https://images.unsplash.com/photo-1614608682850-e0d6ed316d47?w=400&h=400&auto=format&fit=crop&q=60",
+      bio: "Dr. Iyer is a specialist in neurodegenerative disorders. Her research has contributed significantly to understanding Alzheimer's disease progression.",
+      education: "National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru",
+      languages: "English, Tamil, Hindi"
+    },
     {
-  name: "Dr. Meera Raghavan",
-  specialty: "General Medicine",
-  experience: "12 Years of Experience",
-  address: "Plot No. 5, Greams Road, Chennai, Tamil Nadu, India",
-  available: true,
-  imageSrc: "https://images.unsplash.com/photo-1683348758447-05c0c0755a2f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjIwfHxmZW1hbGUlMjBkb2N0b3JzfGVufDB8fDB8fHww",
-  bio: "Dr. Meera Raghavan is a general physician with a focus on diagnosing and treating a wide range of illnesses. She believes in holistic care and focuses on preventive health to maintain overall well-being.",
-  education: "Madras Medical College, Chennai",
-  languages: "English, Tamil, Hindi",
-  rating: "4.7 out of 5 (105 reviews)",
-  contact: "+91 98762 33445",
-  consultationFee: "₹1,000 per session",
-  workingHours: "Mon - Sat, 9:00 AM - 5:00 PM",
-  hospitalAffiliation: "Fortis Malar Hospital, Chennai"
-},
-
+      name: "Dr. Meera Raghavan",
+      specialty: "General Medicine",
+      experience: "12 Years of Experience",
+      address: "Plot No. 5, Greams Road, Chennai, Tamil Nadu, India",
+      available: true,
+      imageSrc: "https://images.unsplash.com/photo-1683348758447-05c0c0755a2f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjIwfHxmZW1hbGUlMjBkb2N0b3JzfGVufDB8fDB8fHww",
+      bio: "Dr. Meera Raghavan is a general physician with a focus on diagnosing and treating a wide range of illnesses. She believes in holistic care and focuses on preventive health to maintain overall well-being.",
+      education: "Madras Medical College, Chennai",
+      languages: "English, Tamil, Hindi",
+      rating: "4.7 out of 5 (105 reviews)",
+      contact: "+91 98762 33445",
+      consultationFee: "₹1,000 per session",
+      workingHours: "Mon - Sat, 9:00 AM - 5:00 PM",
+      hospitalAffiliation: "Fortis Malar Hospital, Chennai"
+    },
     {
       name: "Dr. Aarti Sharma",
       specialty: "Orthopedic Surgeon",
@@ -177,7 +172,7 @@ const Consult = () => {
       consultationFee: "$210 per session",
       workingHours: "Mon - Fri, 10:00 AM - 6:00 PM",
       hospitalAffiliation: "Advanced Orthopedic Institute"
-}
+    }
 
 
   ];
@@ -304,7 +299,7 @@ const Consult = () => {
         </div>
 
         <div className="flex justify-between items-center mb-6">
-          <h1 className="text-2xl font-bold">Find a Doctor</h1>
+          <h1 className="text-2xl font-bold">Book a Doctor's Appointment</h1>
           <Button 
             variant="outline" 
             onClick={handleOpenContact}
