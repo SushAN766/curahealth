@@ -268,7 +268,7 @@ const Consult = () => {
                 onChange={(e) => setSpecialty(e.target.value)}
                 className="w-full p-3 pr-10 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-medware-primary appearance-none"
               >
-                <option value="">Select a speciality..</option>
+                <option value="">Choose a Medical Specialty</option>
                 <option value="Dermatologist">Dermatologist</option>
                 <option value="Surgeon">Surgeon</option>
                 <option value="Pediatrician">Pediatrician</option>
