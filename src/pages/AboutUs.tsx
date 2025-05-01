@@ -6,7 +6,7 @@ const AboutUs = () => {
   return (
     <div className="min-h-screen bg-white">
       <div className="container mx-auto px-4 py-12">
-        <h1 className="text-3xl font-bold mb-8 text-center">About Medware</h1>
+        <h1 className="text-3xl font-bold mb-8 text-center">About Medcare</h1>
         <div className="flex justify-center mb-8">
                 <img 
                   src="\assets\images\dashboard-hero.svg" 
@@ -16,7 +16,7 @@ const AboutUs = () => {
               </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 max-w-5xl mx-auto">
           <div>
-            <h2 className="text-2xl font-bold mb-4">Our Mission</h2>
+            <h2 className="text-2xl font-bold mb-4">Our Vision</h2>
             <p className="text-gray-600 mb-6">
               At Medcare, our mission is to revolutionize healthcare through innovative technology. 
               We are committed to creating digital solutions that make healthcare more accessible, 
@@ -30,9 +30,9 @@ const AboutUs = () => {
           </div>
           
           <div>
-            <h2 className="text-2xl font-bold mb-4">Our Team</h2>
+            <h2 className="text-2xl font-bold mb-4">The Medcare Pioneers</h2>
             <p className="text-gray-600 mb-6">
-              Medware was founded by a passionate group of healthcare professionals, 
+              Medcare was founded by a passionate group of healthcare professionals, 
               technology experts, and innovators who believe in the transformative power 
               of digital health solutions.
             </p>
