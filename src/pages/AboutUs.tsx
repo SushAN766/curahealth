@@ -18,7 +18,7 @@ const AboutUs = () => {
           <div>
             <h2 className="text-2xl font-bold mb-4">Our Mission</h2>
             <p className="text-gray-600 mb-6">
-              At Medware, our mission is to revolutionize healthcare through innovative technology. 
+              At Medcare, our mission is to revolutionize healthcare through innovative technology. 
               We are committed to creating digital solutions that make healthcare more accessible, 
               personalized, and efficient for everyone.
             </p>
