@@ -67,7 +67,7 @@ const Register = () => {
         <div className="flex justify-center">
           <Link to="/" className="flex items-center">
             <span className="text-2xl font-bold text-gray-800"></span>
-            <img src="\assets\images\logo.svg" alt="Medware Logo" className="h-8 w-auto ml-2" />
+            <img src="\assets\images\medcare-logo.svg" alt="Medware Logo" className="h-8 w-auto ml-2" />
           </Link>
         </div>
         <h2 className="mt-6 text-center text-3xl font-extrabold text-gray-900">
