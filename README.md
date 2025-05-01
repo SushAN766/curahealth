@@ -53,7 +53,8 @@ cd curahealth
   ```
 
 ## 🤝 Contributing
--We welcome contributions! Please fork the repo and submit a pull request.
+
+We welcome contributions! Please fork the repo and submit a pull request.
 
 
   
