@@ -24,7 +24,7 @@ const Index = () => {
         <div className="container mx-auto px-4 flex justify-between items-center">
           <div className="flex items-center">
             <span className="text-2xl font-bold text-gray-800"></span>
-            <img src="\assets\images\logo.svg" alt="Medware Logo" className="h-8 w-auto ml-2" />
+            <img src="\assets\images\medcare-logo.svg" alt="Medware Logo" className="h-8 w-auto ml-2" />
           </div>
           
           <nav className="hidden md:flex items-center">
