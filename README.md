@@ -4,7 +4,7 @@ CuraHealth is a smart healthcare platform designed to revolutionize the way user
 
 ---
 
-## 🌟 Features
+##  Features
 
 - **Symptom Predictor:** Analyze your symptoms and receive instant health insights.
 - **Health Dashboard:** Monitor vital metrics and track your well-being.
@@ -14,7 +14,7 @@ CuraHealth is a smart healthcare platform designed to revolutionize the way user
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React with TypeScript
@@ -24,7 +24,7 @@ CuraHealth is a smart healthcare platform designed to revolutionize the way user
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -52,7 +52,7 @@ cd curahealth
   npm run dev
   ```
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please fork the repo and submit a pull request.
 
