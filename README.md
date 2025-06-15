@@ -1,4 +1,4 @@
-# CuraHealth: Your All-in-One Digital Health Companion
+# CuraHealth: All-in-One Digital Health Companion
 
 CuraHealth is a smart healthcare platform designed to revolutionize the way users manage their health. With features like symptom prediction,  health tracking, and instant doctor consultations, CuraHealth offers an intuitive and efficient digital health experience — all in one place.
 
